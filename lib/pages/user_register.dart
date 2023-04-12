@@ -6,11 +6,4 @@ class UserRegister extends StatefulWidget {
   State<UserRegister> createState() => _UserRegisterState();
 }
 
-class _UserRegisterState extends State<UserRegister> {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
 
-    );
-  }
-}
